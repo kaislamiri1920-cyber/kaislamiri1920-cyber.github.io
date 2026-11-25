@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "tn.fla7ti.app",
+        "sha256_cert_fingerprints": ["56:82:19:69:23:6D:1D:6B:B4:E8:26:63:9E:3C:D2:A9:A0:C4:D4:E4:B9:52:FF:5D:45:C2:73:F9:FF:36:D7:B3"]
+      }
+    }]
